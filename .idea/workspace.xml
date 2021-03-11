@@ -20,8 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1f24161-5c0d-4f6e-8f05-d60e677b4527" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../impact/app/Http/Controllers/Admin/ServicesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../impact/app/Http/Controllers/Admin/ServicesController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../impact/resources/lang/en/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/../impact/resources/lang/en/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/bookkeeping.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/bookkeeping.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/bills/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/bills/create.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +35,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../impact" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -155,9 +157,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ProgramFiles\OpenServer\domains\BookKeepeng" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -186,6 +195,7 @@
       <workItem from="1611109913686" duration="9742000" />
       <workItem from="1611292418708" duration="1188000" />
       <workItem from="1612111307451" duration="675000" />
+      <workItem from="1615446896102" duration="1141000" />
     </task>
     <servers />
   </component>
@@ -203,19 +213,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="586" y="198" key="#Inspections" timestamp="1610665191885">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="586" y="198" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1610665191885" />
-    <state x="690" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1611011445159">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="690" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611011445159" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1610497617097">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1610497617097" />
   </component>
 </project>

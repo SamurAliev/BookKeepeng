@@ -49,13 +49,6 @@
 
 
         </div>
-
-
-
-
-
-
-
 @endsection
 
 @section('js')
@@ -87,7 +80,7 @@
                 }
             }
 
-            $("#category>option").click(function () {
+            $("#category").change(function () {
 
                 if ($("#category").val() == {{$lastCategoryId}}) {
 
